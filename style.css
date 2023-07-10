@@ -83,14 +83,7 @@ body {
 		position: relative;
 		}
 		
-		.txt-launch-day-hat {
-		background: url(images/txt-launch-day-hat.png) no-repeat;
-		width: 117px;
-		height: 159px;
-		position: absolute;
-		top: -120px;
-		right: -45px;
-		}
+		
 		
 		.txt-launch-day {
 		background: url(images/txt-launch-day.png) no-repeat;
